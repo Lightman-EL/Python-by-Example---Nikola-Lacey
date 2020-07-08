@@ -1,0 +1,6 @@
+name = input("Enter yor name: ")
+print(name.upper())
+print(name.capitalize())
+print(name.lower())
+print(name.title())
+print(name.strip())
